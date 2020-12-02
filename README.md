@@ -9,3 +9,4 @@ Here I listed the best content on the web according to my personal experience
  5. https://medium.com/@baphemot/understanding-cors-18ad6b478e2b
  6. https://www.joshwcomeau.com/react/the-perils-of-rehydration
  7. https://usehooks.com/useOnClickOutside
+ 8. https://github.com/eggheadio/eggheadio-course-notes/tree/master/building-maps-with-react-leaflet
