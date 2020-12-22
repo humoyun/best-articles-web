@@ -10,3 +10,6 @@ Here I listed the best content on the web according to my personal experience
  6. https://www.joshwcomeau.com/react/the-perils-of-rehydration
  7. https://usehooks.com/useOnClickOutside
  8. https://github.com/eggheadio/eggheadio-course-notes/tree/master/building-maps-with-react-leaflet
+ 9. https://uxplanet.org/information-architecture-basics-for-designers-b5d43df62e20
+ 10. https://www.joshwcomeau.com/career/effective-collaboration
+ 11. 
