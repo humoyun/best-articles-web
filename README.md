@@ -12,4 +12,5 @@ Here I listed the best content on the web according to my personal experience
  8. https://github.com/eggheadio/eggheadio-course-notes/tree/master/building-maps-with-react-leaflet
  9. https://uxplanet.org/information-architecture-basics-for-designers-b5d43df62e20
  10. https://www.joshwcomeau.com/career/effective-collaboration
- 11. 
+ 11. https://medium.com/angular-in-depth/npm-peer-dependencies-f843f3ac4e7f
+ 12. 
