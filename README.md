@@ -15,3 +15,6 @@ Here I listed the best content on the web according to my personal experience
  11. https://medium.com/angular-in-depth/npm-peer-dependencies-f843f3ac4e7f
  12. https://www.thoughtworks.com/insights/blog/composition-vs-inheritance-how-choose
  13. https://www.debuggr.io
+ 14. https://academy.esveo.com/en/blog/Yr
+ 15. https://css-tricks.com/what-hooks-mean-for-vue
+ 16. 
