@@ -13,4 +13,5 @@ Here I listed the best content on the web according to my personal experience
  9. https://uxplanet.org/information-architecture-basics-for-designers-b5d43df62e20
  10. https://www.joshwcomeau.com/career/effective-collaboration
  11. https://medium.com/angular-in-depth/npm-peer-dependencies-f843f3ac4e7f
- 12. 
+ 12. https://www.thoughtworks.com/insights/blog/composition-vs-inheritance-how-choose
+ 13. https://www.debuggr.io
