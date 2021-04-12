@@ -18,4 +18,5 @@ Here I listed the best content on the web according to my personal experience
  14. https://academy.esveo.com/en/blog/Yr
  15. https://css-tricks.com/what-hooks-mean-for-vue
  16. https://mariusschulz.com/blog/series/typescript-evolution
- 17. 
+ 17. https://zapier.com/engineering/how-to-build-redux
+ 18. 
