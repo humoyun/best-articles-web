@@ -20,4 +20,5 @@ Here I listed the best content on the web according to my personal experience
  16. https://mariusschulz.com/blog/series/typescript-evolution
  17. https://zapier.com/engineering/how-to-build-redux
  18. https://pomb.us/build-your-own-react
- 19. 
+ 19. https://kentcdodds.com/blog/usememo-and-usecallback
+ 20. 
