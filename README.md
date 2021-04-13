@@ -21,4 +21,5 @@ Here I listed the best content on the web according to my personal experience
  17. https://zapier.com/engineering/how-to-build-redux
  18. https://pomb.us/build-your-own-react
  19. https://kentcdodds.com/blog/usememo-and-usecallback
- 20. 
+ 20. https://kentcdodds.com/blog/application-state-management-with-react
+ 21. https://vueschool.io/articles/vuejs-tutorials/state-management-with-composition-api
