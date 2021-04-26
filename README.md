@@ -25,4 +25,5 @@ Here I listed the best content on the web according to my personal experience
  21. https://vueschool.io/articles/vuejs-tutorials/state-management-with-composition-api
  22. https://vueschool.io/articles/vuejs-tutorials/deep-dive-into-vue-state-management
  23. https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
- 24. 
+ 24. https://stackoverflow.com/questions/46709170/difference-between-dependency-injection-and-dependency-inversion
+ 25. 
