@@ -26,4 +26,6 @@ Here I listed the best content on the web according to my personal experience
  22. https://vueschool.io/articles/vuejs-tutorials/deep-dive-into-vue-state-management
  23. https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
  24. https://stackoverflow.com/questions/46709170/difference-between-dependency-injection-and-dependency-inversion
- 25. 
+ 25. https://khalilstemmler.com/articles/tutorials/dependency-injection-inversion-explained
+ 26. https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design
+ 27. 
