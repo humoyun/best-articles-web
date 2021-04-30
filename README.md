@@ -28,4 +28,5 @@ Here I listed the best content on the web according to my personal experience
  24. https://stackoverflow.com/questions/46709170/difference-between-dependency-injection-and-dependency-inversion
  25. https://khalilstemmler.com/articles/tutorials/dependency-injection-inversion-explained
  26. https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design
- 27. 
+ 27. https://khalilstemmler.com/articles/solid-principles/solid-typescript
+ 28. https://khalilstemmler.com/articles/when-to-use-typescript-guide
